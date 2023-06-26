@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Type-C")(type "Legacy")(uri "F:/Workspace/Keyboard/Anemone_60xt/pcb/Anemone-60xt-pcb/Type-C.pretty/Type-C.lib")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "F:/Workspace/Keyboard/Anemone_60xt/pcb/Anemone-60xt-pcb/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "F:/Workspace/Keyboard/Anemone_60xt/pcb/Anemone-60xt-pcb/Schematic_Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+)

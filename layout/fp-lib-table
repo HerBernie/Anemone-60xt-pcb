@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "F:/Workspace/Keyboard/Anemone_60xt/pcb/Anemone-60xt-pcb/MX_Alps_Hybrid.pretty")(options "")(descr ""))
+  (lib (name "Alps_Only")(type "KiCad")(uri "F:/Workspace/Keyboard/Anemone_60xt/pcb/Anemone-60xt-pcb/Alps_Only.pretty")(options "")(descr ""))
+  (lib (name "MX_Only")(type "KiCad")(uri "F:/Workspace/Keyboard/Anemone_60xt/pcb/Anemone-60xt-pcb/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "F:/Workspace/Keyboard/Anemone_60xt/pcb/Anemone-60xt-pcb/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "F:/Workspace/Keyboard/Anemone_60xt/pcb/Anemone-60xt-pcb/Type-C.pretty")(options "")(descr ""))
+)
